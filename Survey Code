@@ -1,0 +1,165 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<title>Entitlement Forecaster</title>
+<body style="background-color:#ADD8E6;">
+<header>
+<br>
+			<img src="C:\Users\power\Desktop\FINAL - Entitlement Forcecaster\Logo for Artefact.png" width="190" height="80">
+<h2>Have you been injured at work?</h2>
+<h3> Please complete the form and  one of our team members will be in contact with you to discuss  your prospective claim.</h3>
+</header>
+<section>
+<div>
+	<div> 
+			<p>If you have any difficulties completing the below form, please send us an email at eforceaster@gmail.com</p>
+	</div>
+<form> 
+	<div>
+	<div>
+		<label>Name</label>
+	</div>
+	</div>
+	<div>
+		<input type="text" name="Name">
+</div>
+</div>
+<br>
+<div>
+<div>
+<label>Email</label>
+</div>
+<div>
+	<input type="email" name="Email">
+</div>
+</div>
+</br>
+<div>
+<div>
+<label>Please select your date of injury</label>
+<div>
+	<br>
+<p2><b>*If you have suffered psychological injury, please provide your last day of employment*
+</b>
+</p2></b>
+</div>
+<div>
+	<br>
+<input type="date"/><br>
+</br>
+</div>
+</div>
+<br>
+<div>
+	<div> 
+	<label>
+	Did you sustain your injury during the course of your employment?
+	</label>
+</br>
+</div>
+	<div>
+		<input type="radio" name="YorN"><label>Yes</label>
+		<input type="radio" name="YorN"><label>No</label>
+	</div>
+	<br>
+	<div>
+		<div>
+			<label>Please select what injury(ies) you sustained</label>
+		</br>
+		</div>
+		<div>
+		<input type="radio" name="BInjury" value="InjurytoB"><label>Back Injury</label>
+		<input type="radio" name="NInjury" value="NInjury"><label>Neck Injury</label>
+		<input type="radio" name="LInjury" value="LInjury"><label>Leg Injury</label>
+		<input type="radio" name="AInjury" value="AInjury"><label>Arm Injury</label>
+		<input type="radio" name="HInjury" value="HInjury"><label>Head Injury</label>
+		<input type="radio" name="PInjury" value="PInjury"><label>Psychological Injury</label>
+		<input type="radio" name="TInjury" value="TInjury"><label>Torso/Chest Injury</label>
+	</div>
+	<br>
+<div>
+	<div>
+<label>If the injury you sustained are not stated above, please advise what injury you sustained</label>
+</div>
+</div>
+</br>
+<div>
+	<div>
+	<textarea name="message" rows="5" cols="20">Please type your response here</textarea>
+	</div>
+</div>
+<br>
+	<div> 
+		<div>
+	<label>Briefly describe how your injury occurred</label>
+	</div>
+</div>
+</br>
+<div>
+	<textarea name="message" rows="5" cols="20">Please type your response here</textarea>
+	</div>
+	<br>
+<div>
+<div>
+	<label>Have you received medical treatment in respect of your injury?</label>
+</br>
+</div>
+</div>
+<div>
+	<div>
+<input type="radio" name="YesorNo"><label>Yes</label>
+		<input type="radio" name="YesorNo"><label>No</label>
+	</div>
+	</div>
+	<br>
+<div>
+	<div>
+	<label>Do you believe your injury was caused by the fault of another person or entity?</label>
+</br>
+</div>
+</div>
+<div>
+<div>
+<input type="radio" name="YesorNo2"><label>Yes</label>
+		<input type="radio" name="YesorNo2"><label>No</label>
+	</div>
+</div>
+<br>
+<div>
+	<div> 
+		<label>Have you lodged a Worker's Injury claim form?</label>
+	</br>
+	</div>
+</div>
+<div>
+	<div>
+	<input type="radio" name="YorN2"><label>Yes</label>
+	<input type="radio" name="YorN2"><label>No</label>
+</div>
+</div>
+<br>
+<b><label for="file-select">Lastly, please upload any forms relevant to your claim</label><b>
+</br>
+<br>
+<input type="file" name="Upload" id="file-select">
+</br>
+</form>
+<br>
+<div>
+	<div>
+		 <a href="C:\Users\power\Desktop\FINAL - Entitlement Forcecaster\Indexpage2.html">
+      <input type="Submit" value="Submit"/>
+      	</form>
+      </form>
+
+     	</a>
+     </br>
+	</div>
+</div>
+<br>
+</br>
+</body>
+</html>
